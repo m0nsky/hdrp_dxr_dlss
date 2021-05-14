@@ -38,7 +38,7 @@ MonoBehaviour:
       m_Bits: 4294967295
   textureLodBias:
     m_OverrideState: 1
-    m_Value: 7
+    m_Value: 0
   m_RayLength:
     m_OverrideState: 1
     m_Value: 50
@@ -128,7 +128,7 @@ MonoBehaviour:
       m_Bits: 4294967295
   textureLodBias:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0
   m_RayLength:
     m_OverrideState: 1
     m_Value: 50
